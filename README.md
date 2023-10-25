@@ -4,7 +4,4 @@
 Zack Peachell,
 Jasper Palov,
 Arjun Saxena,
-Bhavya Dubey. Adjusting for changes
-
-
-Second test change
+Bhavya Dubey. 
